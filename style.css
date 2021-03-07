@@ -225,6 +225,33 @@ section::before{
     right: 5%;
     bottom: 5%;
 }
+
+.logindiv{
+    background-color:  #faf7f3 ;
+}
+
+.loginbox{
+    height: 247px;
+    padding: 20px;
+}
+
+.cardbox2nd{
+    border: 2px solid black;
+}
+
+.stylecard{
+    width: 422px;
+    margin: auto;
+    background-color: #faf7f3;
+    border: 1px solid black;
+}
+
+.card-text{
+    text-decoration: none;
+}
+
+
+
 @media screen and (max-width: 480px){
     .starter{
         /* background-size: contain; */
