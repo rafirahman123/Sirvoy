@@ -59,9 +59,12 @@ h4{
     
 
 }
-
+.m-block-booking{
+    width: 70%;
+    margin-left: 200px;
+}
 .mbl{
-    background-image: url("/img/Capture.PNG");
+    background-image: url("img/Capture.PNG");
   
 }
 
@@ -138,7 +141,7 @@ section::before{
 
 .trial{
     width: 100%;
-    background-image: url("/img/banner.jpg");
+    background-image: url("img/banner.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -215,6 +218,12 @@ section::before{
 }
 .paragrp{
     padding: 10px;
+}
+
+.modalbutton{
+    position: fixed;
+    right: 5%;
+    bottom: 5%;
 }
 @media screen and (max-width: 480px){
     .starter{
